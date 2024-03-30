@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="23" height="23" viewBox="0 0 23 23">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.129" y1="0.568" x2="0.997" y2="0.202" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2b7a77"/>
+      <stop offset="0.51" stop-color="#4ebaa9"/>
+      <stop offset="1" stop-color="#5cc2b1"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.736" y1="0.104" x2="0.186" y2="1.001" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#236736"/>
+      <stop offset="0.493" stop-color="#6ba443"/>
+      <stop offset="1" stop-color="#86c146"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.281" y1="0.003" x2="0.816" y2="0.997" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#29a5e3"/>
+      <stop offset="0.515" stop-color="#356eb9"/>
+      <stop offset="1" stop-color="#394da5"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_23714" data-name="Group 23714" transform="translate(10213 1528)">
+    <circle id="Ellipse_739" data-name="Ellipse 739" cx="11.5" cy="11.5" r="11.5" transform="translate(-10213 -1528)" fill="#fff"/>
+    <g id="Group_23713" data-name="Group 23713" transform="translate(51.207 16.802)">
+      <path id="Path_37789" data-name="Path 37789" d="M5415.862-457.267h15.284v-14.367h-15.284Z" transform="translate(-15676.211 -1068.953)" fill="none"/>
+      <path id="Path_37793" data-name="Path 37793" d="M97.889,138.756a.841.841,0,0,1-.827-.513l-1.866-3.46a.862.862,0,0,1-.131-.509L98,134.4l.671.671h5.884L99.668,138.1A4.426,4.426,0,0,1,97.889,138.756Z" transform="translate(-10355.327 -1664.961)" fill="url(#linear-gradient)"/>
+      <path id="Path_37794" data-name="Path 37794" d="M98.673,30.806H96.136c-.766,0-1.07-.4-1.07-.8a1.638,1.638,0,0,1,.194-.672l3.7-8.827.04-.077.051-.079.106-.1.156-.084.226-.05.389.01,2.569.955-.869,2.74Z" transform="translate(-10355.327 -1560.693)" fill="url(#linear-gradient-2)"/>
+      <path id="Path_37795" data-name="Path 37795" d="M147.137,34.3,141.3,20.485a.724.724,0,0,0-.679-.539.665.665,0,0,0-.651.374.643.643,0,0,1,.664-.412h4.028a.637.637,0,0,1,.63.419L151.2,34.3Z" transform="translate(-10396.341 -1560.507)" fill-rule="evenodd" fill="url(#linear-gradient-3)"/>
+    </g>
+  </g>
+</svg>

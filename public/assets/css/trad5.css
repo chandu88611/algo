@@ -1,0 +1,58 @@
+.trad5bg{
+	
+	position:relative;
+
+}
+.tradebg{
+	position: absolute;
+	top: 50px;
+	left: 100px;
+	width: 50%;
+}
+
+.advc5{
+	/*background-image: url("assets/images/trad5/sec2bg.jpg");*/
+	position:relative;
+}
+.advc5con{
+	position: absolute;
+	top: 150px;
+	right: 10px;
+	width: 30%;
+}
+@media only screen and (max-width: 425px){
+	.advc5con{
+	position: absolute;
+	top: 0px;
+	right: 5px;
+	width: 50%;
+	}
+	.advc5 img{
+		height: 500px;
+	}
+	.advc5con ul{
+	color: white;
+	}
+	.advc5con h3{
+	color: white;
+	}
+	.tradebg{
+		position: absolute;
+		top: 0px;
+		left: 5px;
+		width: 80%;
+	}
+	.tradebg p{
+		font-size: 12px;
+		line-height: 15px;
+	}
+	.trad5bg img{
+	
+		height: 250px;
+
+	}
+	
+}
+.borederleft{
+	border-left:solid 1px black;
+}

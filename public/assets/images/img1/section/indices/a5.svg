@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="25" viewBox="0 0 32 25">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_21179" data-name="Rectangle 21179" width="23" height="25" transform="translate(184 1141)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <circle id="Ellipse_731" data-name="Ellipse 731" cx="11.5" cy="11.5" r="11.5"/>
+    </clipPath>
+  </defs>
+  <g id="fra40" transform="translate(-184 -1282)">
+    <g id="Mask_Group_239" data-name="Mask Group 239" transform="translate(0 141)" clip-path="url(#clip-path)">
+      <g id="france-flag-round" transform="translate(184 1142)">
+        <g id="Group_21649" data-name="Group 21649" clip-path="url(#clip-path-2)">
+          <rect id="_x33__1_" width="23" height="23" fill="#ed2939"/>
+          <rect id="_x32__1_" width="15.333" height="23" fill="#fff"/>
+          <rect id="_x31__1_" width="7.667" height="23" fill="#002395"/>
+        </g>
+      </g>
+    </g>
+    <circle id="Ellipse_728" data-name="Ellipse 728" cx="9.5" cy="9.5" r="9.5" transform="translate(197 1285)" fill="#636363"/>
+    <path id="Path_37624" data-name="Path 37624" d="M8.792,5.055H9.3v.889H8.792V7H7.641V5.944H5.716l-.068-.7L7.641,2.034v-.01H8.792Zm-2.047,0h.9V3.524l-.072.116Zm6.515-.089a2.376,2.376,0,0,1-.453,1.555,1.565,1.565,0,0,1-1.277.547,1.573,1.573,0,0,1-1.285-.55,2.373,2.373,0,0,1-.455-1.552V4.057A2.376,2.376,0,0,1,10.243,2.5a1.569,1.569,0,0,1,1.28-.547,1.57,1.57,0,0,1,1.282.55,2.378,2.378,0,0,1,.455,1.555ZM12.108,3.91a1.775,1.775,0,0,0-.14-.8.468.468,0,0,0-.444-.265.457.457,0,0,0-.432.246,1.672,1.672,0,0,0-.145.745V5.106a1.788,1.788,0,0,0,.14.815.47.47,0,0,0,.444.258.464.464,0,0,0,.434-.251,1.707,1.707,0,0,0,.144-.788Z" transform="translate(197 1290)" fill="#fff"/>
+  </g>
+</svg>
